@@ -1,3 +1,6 @@
+
+http://www.cl.ecei.tohoku.ac.jp/nlp100/
+
 ,+<>-*の後には1スペ入れる
 
 Pythonで書ける便利な書き方を紹介します。
