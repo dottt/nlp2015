@@ -1,0 +1,4 @@
+,+<>-*の後には1スペ入れる
+
+Pythonで書ける便利な書き方を紹介します。
+http://nonbiri-tereka.hatenablog.com/entry/2016/01/25/073521
